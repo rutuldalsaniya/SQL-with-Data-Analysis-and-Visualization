@@ -1,4 +1,5 @@
 # SQL Data Analysis & Data Visualizaiton Projects
+# This is for the data analyst project
 Compilation of SQL, Tableau, and PySpark data analysis-related projects and challenges where I practice those skills.
 
 ### Built with
